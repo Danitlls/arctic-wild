@@ -16,9 +16,9 @@
     border-radius: 50%;
     background-color: rgba($dark-grey, 0.8);
     transition: transform 0.3s;
-    &:hover {
-      transform: scale(1.3);
-    }
+  }
+  &:hover img {
+    transform: scale(1.3);
   }
   h3 {
     color: #fff;
